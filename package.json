@@ -1,0 +1,27 @@
+{
+  "name": "apk-teste",
+  "version": "1.0.0",
+  "description": "software para fins educativos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Conecxão efetuada\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsgomesgithub-computer/apk-teste.git"
+  },
+  "keywords": [
+    "apk-teste",
+    "educativo",
+    "estudo"
+  ],
+  "author": "Diogo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsgomesgithub-computer/apk-teste/issues"
+  },
+  "homepage": "https://github.com/dsgomesgithub-computer/apk-teste#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
